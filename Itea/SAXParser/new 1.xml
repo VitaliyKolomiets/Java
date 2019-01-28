@@ -1,0 +1,19 @@
+<Dota2>
+    <dotahero>
+        <hero level="12">
+            Invoker
+        </hero>
+        <ultimate>
+            SunSckine
+        </ultimate>
+    </dotahero>
+
+    <dotahero>
+        <hero level="13">
+            pudge
+        </hero>
+        <ultimate>
+            meathook
+        </ultimate>
+    </dotahero>
+</Dota2>
